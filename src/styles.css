@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f7fa;
+}
+
+.container {
+  padding: 20px;
+}
+
+.logo {
+  width: 120px;
+}
+
+.icon {
+  width: 40px;
+  height: 40px;
+}
+
+.test {
+  color: red;
+}
+
+.test1 {
+  color: red;
+}
